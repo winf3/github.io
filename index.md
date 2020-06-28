@@ -10,8 +10,10 @@ My favourite character is ## Forrest Gump
 * he does what he is told
 
 
-Forrest Gump shows the typical American and has coole Sprüche like "Life is like a box of chocolades - you never know what you are going to get !"
+Forrest Gump shows the typical American and has coole quotes like "Life is like a box of chocolades - you never know what you are going to get !"
 He is a kitchen Philosopher !
 
-
+He quotes:
+>Life is like a box of chocolades - you 
+>never know what you are going to get !
 
